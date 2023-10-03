@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\bin\Debug\Boluö1 Uygulama4.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\bin\Debug\Boluö1 Uygulama4.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\bin\Debug\Boluö1 Uygulama4.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1 Uygulama4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1 Uygulama4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1_Uygulama4.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1_Uygulama4.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1 Uygulama4.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1 Uygulama4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1 Uygulama4.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Boluö1 Uygulama4\Boluö1 Uygulama4\obj\Debug\Boluö1 Uygulama4.pdb
